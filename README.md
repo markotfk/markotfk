@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @markotfk
-- 👀 I’m interested in computers, technologies, physics, science, cosmos, life.
-- 🌱 I’m currently learning Oauth2, Open Id Connect, Kafka
+- 👋 Hi, I’m Marko Karjalainen from Finland
+- 👀 I’m interested in exercise, bicycling, computers, technologies, physics, science, cosmos, life.
+- 🌱 I’m currently learning Oauth2, Open Id Connect, and Kafka.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: markotfk@gmail.com
 
